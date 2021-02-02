@@ -35,3 +35,17 @@ I spent half of my life travelling some places were good and some were extra goo
 >Oh but my darling,  
 >What if you fly?”.
 > *~Erin Hanson*
+---
+# BASIC
+>BASIC (Beginners' All-purpose Symbolic Instruction Code)[1] is a family of general-purpose, high-level >programming languages whose design philosophy emphasizes ease of use. The original version was designed by >John G. Kemeny and Thomas E. Kurtz and released at Dartmouth College in 1964. They wanted to enable students >in fields other than science and mathematics to use computers. At the time, nearly all use of computers >required writing custom software, which was something only scientists and mathematicians tended to learn.
+### CODE
+```.basic
+nfound:
+        lda     #128
+        jsr     add_laddr_list
+        ; Ok, advance parsing pointer with the label length
+        bcc     advance_varn
+        rts
+.endproc
+```
+[source code!](https://github.com/dmsc/fastbasic/)
