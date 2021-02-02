@@ -28,8 +28,9 @@ I spent half of my life travelling some places were good and some were extra goo
 ---
 #Quotes
 > Perfection is not desireable, is your heart still aquireable. 
-> *~Mr Pintos* 
-> “There is freedom waiting for you,  
+> *~Mr Pintos*  
+
+>—“There is freedom waiting for you,  
 >On the breezes of the sky,  
 >And you ask "What if I fall?"  
 >Oh but my darling,  
