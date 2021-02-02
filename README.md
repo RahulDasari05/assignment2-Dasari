@@ -8,3 +8,9 @@
 2. Goto the folder where yourfile.java if present
 3. Compile file using 'javac yourfile.java' command 
 4. Run the class file using 'java yourfile' command
+---
+# Unorderd steps
+* First open cmd
+* Goto the folder where yourfile.java if present
+* Compile file using 'javac yourfile.java' command 
+* Run the class file using 'java yourfile' command
